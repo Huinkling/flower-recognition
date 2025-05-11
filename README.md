@@ -134,5 +134,4 @@ MobileNetV2 (预训练) → GlobalAveragePooling2D → Dense(128, ReLU) → Dens
 ## 致谢
 
 - 感谢TensorFlow和Keras团队提供的优秀深度学习框架
-- 感谢Streamlit和Gradio团队提供的简便部署工具
-- 感谢所有为本项目做出贡献的开发者 
+- 感谢Streamlit提供的简便部署工具
